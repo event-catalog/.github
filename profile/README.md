@@ -2,6 +2,8 @@
 
 EventCatalog has one mission: **bring discoverability to your event-driven architectures.**.
 
+![image](https://github.com/event-catalog/.github/assets/3268013/d3e98cbf-0512-4907-97b1-8294e4727545)
+
 ### Why EventCatalog?
 
 Event-driven architectures share a common challenge: their complexity can quickly escalate as more domains, services, and messages are added.
