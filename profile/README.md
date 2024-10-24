@@ -17,4 +17,27 @@ EventCatalog is helping organisations around the world bring governance and docu
 
 EventCatalog is open source, and you can get [started in minutes](https://eventcatalog.dev/docs/development/getting-started/installation).
 
+# Sponsors
+
+Thank you to our project  sponsors.
+
+## Gold sponsors
+
+<div align="center">
+  <img alt="hookdeck" src="https://raw.githubusercontent.com/event-catalog/eventcatalog/refs/heads/main/images/sponsors/hookdeck.svg" />
+  <p style="margin: 0; padding: 0;">Serverless infrastructure for event-driven architecture. </p>
+  <a href="https://hookdeck.com/?ref=eventcatalog-sponsor" target="_blank" >Learn more</a>
+</div>
+
+<hr />
+
+<div align="center">
+  <img alt="hookdeck" src="https://raw.githubusercontent.com/event-catalog/eventcatalog/refs/heads/main/images/sponsors/gravitee-logo-black.svg" width="35%" />
+  <p style="margin: 0; padding: 0;">Manage, secure, and govern every API in your organization</p>
+  <a href="https://www.gravitee.io/?ref=eventcatalog-sponsor" target="_blank" >Learn more</a>
+</div>
+
+<hr />
+
+_Sponsors help make EventCatalog sustainable, want to help the project? Get in touch! Or [visit our sponsor page](https://www.eventcatalog.dev/support)._
 
