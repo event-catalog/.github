@@ -23,13 +23,6 @@ Thank you to our project  sponsors.
 
 ## Gold sponsors
 
-<div align="center">
-  <img alt="hookdeck" src="https://raw.githubusercontent.com/event-catalog/eventcatalog/refs/heads/main/images/sponsors/hookdeck.svg" />
-  <p style="margin: 0; padding: 0;">Serverless infrastructure for event-driven architecture. </p>
-  <a href="https://hookdeck.com/?ref=eventcatalog-sponsor" target="_blank" >Learn more</a>
-</div>
-
-<hr />
 
 <div align="center">
   <img alt="gravitee" src="https://raw.githubusercontent.com/event-catalog/eventcatalog/refs/heads/main/images/sponsors/gravitee-logo-black.svg" width="35%" />
