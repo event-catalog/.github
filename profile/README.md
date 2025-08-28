@@ -17,19 +17,6 @@ EventCatalog is helping organisations around the world bring governance and docu
 
 EventCatalog is open source, and you can get [started in minutes](https://eventcatalog.dev/docs/development/getting-started/installation).
 
-# Sponsors
-
-Thank you to our project  sponsors.
-
-## Gold sponsors
-
-
-<div align="center">
-  <img alt="gravitee" src="https://raw.githubusercontent.com/event-catalog/eventcatalog/refs/heads/main/images/sponsors/gravitee-logo-black.svg" width="35%" />
-  <p style="margin: 0; padding: 0;">Manage, secure, and govern every API in your organization</p>
-  <a href="https://gravitee.io?utm_source=eventcatalog&utm_medium=web&utm_campaign=sponsorship" target="_blank" >Learn more</a>
-</div>
-
 <hr />
 
 
