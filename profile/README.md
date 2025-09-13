@@ -1,7 +1,4 @@
-# 🚀 Welcome to EventCatalog
-
 <img width="677" height="666" alt="Screenshot 2025-09-13 at 12 49 50" src="https://github.com/user-attachments/assets/66dcdbfb-015d-4395-840a-aedd66f1f23c" />
-
 ---
 
 ## Why EventCatalog?
