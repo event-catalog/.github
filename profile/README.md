@@ -1,24 +1,44 @@
-# Welcome to EventCatalog
+# 🚀 Welcome to EventCatalog
 
-EventCatalog has one mission: **bring discoverability to your event-driven architectures.**.
+<img width="677" height="666" alt="Screenshot 2025-09-13 at 12 49 50" src="https://github.com/user-attachments/assets/66dcdbfb-015d-4395-840a-aedd66f1f23c" />
 
-![image](https://github.com/event-catalog/.github/assets/3268013/e8b23a05-ae18-4f31-bf78-9b588960e61e)
+---
 
+## Why EventCatalog?
 
-### Why EventCatalog?
+Event-driven architectures (EDAs) are powerful—but they quickly become **complex and hard to govern**.  
+As domains, services, and messages grow, so does the challenge of **understanding, documenting, and communicating** what’s happening across the system.
 
-Event-driven architectures share a common challenge: their complexity can quickly escalate as more domains, services, and messages are added.
+Without proper documentation, an EDA can become a black box, leaving teams struggling to keep up.  
+([Watch my GOTO EDA Day 2024 keynote on EDA complexity](https://www.youtube.com/watch?si=knTL9MABy-ubmdcs&v=VLUvfIm9wnQ&feature=youtu.be))
 
-As business requirements evolve and teams adapt, governing and understanding this distributed architecture becomes increasingly difficult. What begins as a straightforward system often transforms into a complex structure with minimal documentation and discoverability, leaving most people struggling to comprehend it ([I share my thoughts on EDA complexity in this GOTO EDA Day 2024 keynote](https://www.youtube.com/watch?si=knTL9MABy-ubmdcs&v=VLUvfIm9wnQ&feature=youtu.be)).
+---
 
-[In January 2022 EventCatalog v1 launched](https://www.boyney.io/blog/2022-01-11-introducing-eventcatalog) to help bring discoverability and documentation to event-driven architectures. Between 2022 to 2024, EventCatalog has seen over 13,000 catalogs created, attracted 45 contributors, grown a community of more than 600 members on Discord and was added to [Thoughtworks Technology Radar](https://www.thoughtworks.com/en-gb/radar/tools/eventcatalog).
+## 🌟 Our Journey
 
-EventCatalog is helping organisations around the world bring governance and documentation to their event-driven architectures.
+- 📅 [EventCatalog v1 launched in Jan 2022](https://www.boyney.io/blog/2022-01-11-introducing-eventcatalog)  
+- 📈 28,000+ catalogs created by teams worldwide  
+- 👩‍💻 70+ contributors helping improve the project  
+- 💬 1200+ community members on [Discord](https://discord.gg/3rjaZMmrAm)
 
-EventCatalog is open source, and you can get [started in minutes](https://eventcatalog.dev/docs/development/getting-started/installation).
+EventCatalog is now used by **organisations around the globe** to bring **governance, visibility, and discoverability** to their event-driven architectures.
 
-<hr />
+---
 
+## ✨ What EventCatalog Offers
 
-_Sponsors help make EventCatalog sustainable, want to help the project? Get in touch! Or [visit our sponsor page](https://www.eventcatalog.dev/support)._
+- 📖 **Documentation** – Automatically generate and maintain living docs for your EDA.  
+- 🔍 **Discoverability** – Make it easy for developers and stakeholders to explore domains, services, and events.  
+- 🛡 **Governance** – Bring structure and visibility to fast-moving distributed systems.  
+- 🧩 **Extensibility** – Flexible APIs and integrations to fit your architecture workflows.  
 
+👉 EventCatalog is **open source** and you can [get started in minutes](https://eventcatalog.dev/docs/development/getting-started/installation).
+
+---
+
+## ❤️ Support the Project
+
+EventCatalog is sustained by its amazing community and sponsors.  
+If you or your organisation want to help us grow, [visit our sponsor page](https://www.eventcatalog.dev/support).
+
+---
